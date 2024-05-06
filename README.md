@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mrcsghosh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Chandrashekhar Ghosh
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Full Satck Web Development From PW Skill's 
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me @mecsghosh Mail :- 0810chandrashekhar@gmail.com 
 - #this is the Samplewebpage i create 
 - #https://mrcsghosh.github.io/Samplewebpage/
 - #https://mrcsghosh.github.io/PWPROJECT1/
