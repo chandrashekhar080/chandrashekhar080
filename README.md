@@ -9,10 +9,10 @@
 
 -  ## 📜 Certifications & Achievements
 
-- ![HackerRank Badge](https://img.shields.io/badge/HackerRank_Basic_MRCS-Black)  
+## ![HackerRank Badge](https://img.shields.io/badge/HackerRank_Basic_MRCS-Black)  
 - [Problem Solving (Basic) Certificate](https://www.hackerrank.com/certificates/a34729a128bf) - HackerRank (Nov 2024)
 
-- ![Accenture Badge](https://img.shields.io/badge/Accenture_Nordies_MRCS-Black)  
+## ![Accenture Badge](https://img.shields.io/badge/Accenture_Nordies_MRCS-Black)  
 - [Accenture Nordics Software Engineering Completion Certificate](https://www.theforage.com/simulations/accenture-nordics/software-engineering-igje) - Accenture's (Nov 2024)
 
 
