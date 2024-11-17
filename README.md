@@ -7,7 +7,7 @@
 - 🔧 Committed to building efficient and user-friendly web applications
 - 💻 Open to collaboration and learning new technologies
 
--  ## 📜 Certifications & Achievements
+  ## 📜 Certifications & Achievements
 
 ## ![HackerRank Badge](https://img.shields.io/badge/HackerRank_Basic_MRCS-Black)  
 - [Problem Solving (Basic) Certificate](https://www.hackerrank.com/certificates/a34729a128bf) - HackerRank (Nov 2024)
