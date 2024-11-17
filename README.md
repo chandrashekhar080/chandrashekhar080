@@ -1,16 +1,12 @@
- ChandraShekhar Ghosh
- Full Stack Web Developer
-  Learning :- pw Skills
-     👋 Hi, I’m Chandrashekhar Ghosh
-        👀 I’m interested in Web Development
-        🌱 I’m currently learning Full Satck Web Development From PW Skill's
-        💞️ I’m looking to collaborate on
-        📫 How to reach me @mecsghosh Mail :- 0810chandrashekhar@gmail.com
-        #this is the Samplewebpage i create
-        #https://mrcsghosh.github.io/Samplewebpage/
-        #https://mrcsghosh.github.io/PWPROJECT1/
-        #https://mrcsghosh.github.io/PWPROJECT2/
-        #https://mrcsghosh.github.io/HolkarProject/
-        #https://mrcsghosh.github.io/PWPROJECT3/
-        #https://mrcsghosh.github.io/PWPROJECT4/
-        #https://mrcsghosh.github.io/PWPROJECT6
+# Welcome to My GitHub 👋
+
+## About Me
+Hi, I'm [ChandraShekhar Ghosh] I'm passionate about [Full Stack Website Developer] and currently learning [JavaScript,Java, Node.js, React.js, MongoDB, SQL. CSS, DBMS] .
+
+## 📜 Certifications & Achievements
+- [Problem Solving (Basic) Certificate]([link](https://www.hackerrank.com/certificates/a34729a128bf))
+- [Accenture Nordics Software Engineering Completion Certificate]([link](https://www.theforage.com/simulations/accenture-nordics/software-engineering-igje))
+
+## 🌐 Connect with Me
+- [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/chandrashekhar-ghosh-49a693297/))
+- [Portfolio]([https://yourwebsite.com](https://mrcsghosh.github.io/WebsitePortfoliocs/))
