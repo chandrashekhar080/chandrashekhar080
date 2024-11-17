@@ -2,12 +2,10 @@
 
 ### About Me
 ## ChandraShekhar Ghosh
-🚀 Passionate Full Stack Web Developer
-🌐 Currently mastering: JavaScript | Java | Node.js | React.js | MongoDB | SQL | CSS | DBMS
-🔧 Committed to building efficient and user-friendly web applications
-💻 Open to collaboration and learning new technologies
-✉️ Let's connect: 0810chandrashekhar@gmail.com| 
-
+- 🚀 Passionate Full Stack Web Developer
+- 🌐 Currently mastering: JavaScript | Java | Node.js | React.js | MongoDB | SQL | CSS | DBMS
+- 🔧 Committed to building efficient and user-friendly web applications
+- 💻 Open to collaboration and learning new technologies
 
 -  ## 📜 Certifications & Achievements
 
