@@ -7,10 +7,10 @@ Hi, I'm ChandraShekhar Ghosh I'm passionate about Full Stack Website Developer a
 
 -  ## 📜 Certifications & Achievements
 
-- ![HackerRank Badge](https://img.shields.io/badge/HackerRank%20Black)  
+- ![HackerRank Badge](https://img.shields.io/badge/HackerRank_Basic_MRCS-Black)  
 - [Problem Solving (Basic) Certificate](https://www.hackerrank.com/certificates/a34729a128bf) - Accenture's (Nov 2024)
 
-- ![Accenture Badge](https://img.shields.io/badge/Accenture%20blue)  
+- ![Accenture Badge](https://img.shields.io/badge/Accenture_Nordies_MRCS-Black)  
 - [Accenture Nordics Software Engineering Completion Certificate](https://www.theforage.com/simulations/accenture-nordics/software-engineering-igje) - HackerRank (Nov 2024)
 
 
