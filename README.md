@@ -15,6 +15,8 @@
 ## ![Accenture Badge](https://img.shields.io/badge/Accenture_Nordies_MRCS-Black)  
 - [Accenture Nordics Software Engineering Completion Certificate](https://www.theforage.com/simulations/accenture-nordics/software-engineering-igje) - Accenture's (Nov 2024)
 
+## ![Goldman Sachs Badge](https://img.shields.io/badge/GoldmanSachs%20Black%20blue)
+- [Goldman Sachs Software Engineering Skills](https://www.theforage.com/simulations/goldman-sachs/software-engineering-unei) - Goldman Sach's (Dec 2024)
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/chandrashekhar-ghosh-49a693297/)
