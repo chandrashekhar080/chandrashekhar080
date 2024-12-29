@@ -19,7 +19,7 @@
 - [Goldman Sachs Software Engineering Skills](https://www.theforage.com/simulations/goldman-sachs/software-engineering-unei) - Goldman Sach's (Dec 2024)
 
 ## ![Walmart Global Tech](https://img.shields.io/badge/WalmartGlobalTechs%20Black%20blue)
-- [Walmart Global Tech Software Engineering Skills](https://www.theforage.com/simulations/walmart/software-engineering-fceb) - GWalmart Global Tech (Dec 2024)
+- [Walmart Global Tech Software Engineering Skills](https://www.theforage.com/simulations/walmart/software-engineering-fceb) - Walmart Global Tech (Dec 2024)
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/chandrashekhar-ghosh-49a693297/)
