@@ -7,7 +7,7 @@
 - 🔧 Committed to building efficient and user-friendly web applications
 - 💻 Open to collaboration and learning new technologies
 
-  ## 📜 Certifications & Achievements
+# 📜 Certifications & Achievements
 
 ## ![HackerRank Badge](https://img.shields.io/badge/HackerRank_Basic_MRCS-Black)  
 - [Problem Solving (Basic) Certificate](https://www.hackerrank.com/certificates/a34729a128bf) - HackerRank (Nov 2024)
@@ -20,6 +20,9 @@
 
 ## ![Walmart Global Tech](https://img.shields.io/badge/WalmartGlobalTechs%20Black%20blue)
 - [Walmart Global Tech Software Engineering Skills](https://www.theforage.com/simulations/walmart/software-engineering-fceb) - Walmart Global Tech (Dec 2024)
+
+## ![AWS APAC Solutions Architecture](https://img.shields.io/badge/WalmartGlobalTechs%20Black%20blue) - AWS (Jan 2025) 
+- [AWS APAC Solutions Architecture](https://www.theforage.com/simulations/aws-apac/solutions-architecture-ts4o)
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/chandrashekhar-ghosh-49a693297/)
