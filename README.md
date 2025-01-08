@@ -21,8 +21,8 @@
 ## ![Walmart Global Tech](https://img.shields.io/badge/WalmartGlobalTechs%20Black%20blue)
 - [Walmart Global Tech Software Engineering Skills](https://www.theforage.com/simulations/walmart/software-engineering-fceb) - Walmart Global Tech (Dec 2024)
 
-## ![AWS APAC Solutions Architecture](https://img.shields.io/badge/WalmartGlobalTechs%20Black%20blue) - AWS (Jan 2025) 
-- [AWS APAC Solutions Architecture](https://www.theforage.com/simulations/aws-apac/solutions-architecture-ts4o)
+## ![AWS APAC Solutions Architecture](https://img.shields.io/badge/WalmartGlobalTechs%20Black%20blue)  
+- [AWS APAC Solutions Architecture](https://www.theforage.com/simulations/aws-apac/solutions-architecture-ts4o) - - AWS (Jan 2025)
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/chandrashekhar-ghosh-49a693297/)
