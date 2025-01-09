@@ -1,42 +1,59 @@
-                                                            ## Hi i'm ChandraShekhar Ghosh 👋
-                                                              ### Welcome to My GitHub 👋
+# Hi 👋, I'm Chandrashekhar Ghosh
 
-### About Me
+A passionate developer from India 🌟, focused on learning, growing, and contributing to the tech community.
 
-## 🚀 A passionate developer from India
-![Profile views](https://github.com/user-attachments/assets/9fe672ee-0d7f-48a7-9928-8ece1b1c7f13)
+- 🔭 I’m currently mastering **JavaScript | Node.js | React.js | MongoDB | CSS | DBMS**.
+- 🌱 I’m always eager to learn new skills and technologies in software development.
+- 📂 All of my projects are available at [My GitHub Repositories](https://github.com/chandrashekhar080?tab=repositories).
+- 💬 Ask me about **Web Development, Frontend Tools, and Problem Solving**.
+- 📫 How to reach me: chandrashekhar080@gmail.com
+- ⚡ Fun fact: I enjoy coding and collaborating on innovative projects.
 
-- 🌐🌱 Currently mastering: JavaScript | Java | Node.js | React.js | MongoDB | SQL | CSS | DBMS
-- 🔧 Committed to building efficient and user-friendly web applications
-- 💻 Open to collaboration and learning new technologies
-- 👨‍💻 All of my projects are available at [Chandrashekhar_08](https://chandrashekhar080.github.io/WebsitePortfoliocs/)
-- 📫 How to reach me  0810chandrashekhar@gmail.com
+---
 
-## 🌐 Connect with Me
-- ![image](https://github.com/user-attachments/assets/a4cc1eec-deb1-49e2-9254-9f34b4cd2e09)(https://www.linkedin.com/in/chandrashekhar-ghosh-49a693297/)
-- ![https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg](..)
-- ![https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg](...)
-- ![https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg](...)
+## 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandrashekhar-ghosh-1b6b891a7)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandrashekhar080)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/chandrashekhar_gh)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/chandrashekhar080/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/chandrashekhar080/)
 
-## Languages and Tools:
-- ![https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg]
-- ![![image](https://github.com/user-attachments/assets/ac870296-6c1e-4e54-a729-fbd5154c7f4d)
+---
 
-# 📜 Certifications & Achievements
+## 🛠️ Languages and Tools:
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## ![HackerRank Badge](https://img.shields.io/badge/HackerRank_Basic_MRCS-Black)  
-- [Problem Solving (Basic) Certificate](https://www.hackerrank.com/certificates/a34729a128bf) - HackerRank (Nov 2024)
+---
 
-## ![Accenture Badge](https://img.shields.io/badge/Accenture_Nordies_MRCS-Black)  
-- [Accenture Nordics Software Engineering Completion Certificate](https://www.theforage.com/simulations/accenture-nordics/software-engineering-igje) - Accenture's (Nov 2024)
+## 📊 GitHub Stats:
+![Chandrashekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandrashekhar080&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrashekhar080&layout=compact&theme=radical)
 
-## ![Goldman Sachs](https://img.shields.io/badge/GoldmanSachs%20Black%20blue)
-- [Goldman Sachs Software Engineering Skills](https://www.theforage.com/simulations/goldman-sachs/software-engineering-unei) - Goldman Sach's (Dec 2024)
+---
 
-## ![Walmart Global Tech](https://img.shields.io/badge/WalmartGlobalTechs%20Black%20blue)
-- [Walmart Global Tech Software Engineering Skills](https://www.theforage.com/simulations/walmart/software-engineering-fceb) - Walmart Global Tech (Dec 2024)
+## 🏆 Certifications & Achievements:
 
-## ![AWS APAC Solutions Architecture](https://img.shields.io/badge/WalmartGlobalTechs%20Black%20blue)  
-- [AWS APAC Solutions Architecture](https://www.theforage.com/simulations/aws-apac/solutions-architecture-ts4o) - - AWS (Jan 2025)
+- 🏅 **Problem Solving (Basic) Certificate** – HackerRank (Nov 2023)
+- 🏅 **Accenture Industry X Software Engineering Completion Certificate** – Accenture (Nov 2024)
+- 🏅 **Goldman Sachs Certificate in Software Engineering Skills** – Goldman Sachs (Dec 2024)
+- 🏅 **Walmart Global Tech Certificate in Software Development** – Walmart Global Tech (Dec 2024)
+- 🏅 **AWS PAC Solutions Architecture** – AWS (Jan 2025)
 
- 
+---
+
+## 📂 Featured Projects:
+- [Climate Smart Agriculture Platform](https://github.com/chandrashekhar080/Climate-Smart-Agriculture): Building sustainable solutions using modern web technologies.
+- [Tic Tac Toe Game](https://github.com/chandrashekhar080/tic_tac_toe_game): An interactive C++ game for beginners.
+- [Portfolio Website](https://chandrashekhar080.github.io): Showcasing my work and skills.
+
+---
+
+Let’s connect and collaborate on exciting tech projects! 🚀
