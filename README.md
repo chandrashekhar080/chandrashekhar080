@@ -1,6 +1,5 @@
 #                                                Hi 👋, I'm Chandrashekhar Ghosh
-
-               A passionate developer from India 🌟, focused on learning, growing, and contributing to the tech community.
+A passionate developer from India 🌟, focused on learning, growing, and contributing to the tech community.
 
 - 🔭 I’m currently mastering **JavaScript | Node.js | React.js | MongoDB | CSS | DBMS**.
 - 🌱 I’m always eager to learn new skills and technologies in software development.
@@ -16,8 +15,8 @@
 [![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)](https://github.com/chandrashekhar080/)
 [![HackerRank](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png)](https://www.hackerrank.com/profile/0810chandrashek1)
 [![LeetCode](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png)](https://leetcode.com/u/_chandrashekhar_08/)
-[![image](https://github.com/user-attachments/assets/ca50443e-6a2b-4fde-84fe-54228b2a951d)](https://www.geeksforgeeks.org/user/0810chandrbric/)
-[![Instagram](https://github.com/user-attachments/assets/88d1e579-11f3-45c4-bb43-21c15123f6cc)](https://www.instagram.com/_chandrashekhar_08/)
+[![GeekforGeeks](https://img.icons8.com/color/48/000000/geeksforgeeks.png)](https://www.geeksforgeeks.org/user/0810chandrbric/)
+[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/_chandrashekhar_08/)
 
 ---
 
@@ -31,8 +30,7 @@
 [![Git](https://img.icons8.com/color/48/000000/git.png)](https://git-scm.com/)
 [![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)](https://github.com/)
 [![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![Java](https://github.com/user-attachments/assets/ab01c1b6-0ed7-4bd9-9f9d-51c5cec67782)
-](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)](https://en.wikipedia.org/wiki/C%2B%2B)
 
 
 ---
