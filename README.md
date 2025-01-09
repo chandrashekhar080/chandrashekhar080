@@ -41,6 +41,16 @@ A passionate developer from India 🌟, focused on learning, growing, and contri
 
 ---
 
+## 🏆 LeetCode Progress
+![LeetCode Stats](https://leetcard.jacoblin.cool/_chandrashekhar_08?ext=heatmap)  
+
+### Achievements:
+- **Problems Solved:** 8+  
+- **Ranking:** Top 10% in LeetCode Contests  
+- **Specialized In:** Dynamic Programming, Graph Algorithms  
+
+---
+
 ## 🏆 Certifications & Achievements:
 
 - 🏅 [Problem Solving (Basic) Certificate](https://www.hackerrank.com/certificates/iframe/a34729a128bf) – HackerRank (Nov 2023)
