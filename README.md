@@ -12,24 +12,24 @@ A passionate developer from India 🌟, focused on learning, growing, and contri
 ---
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandrashekhar-ghosh-1b6b891a7)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandrashekhar080)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/chandrashekhar_gh)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/chandrashekhar080/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/chandrashekhar080/)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/demo-profile)
+[![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)](https://github.com/demo-profile)
+[![HackerRank](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png)](https://www.hackerrank.com/demo-profile)
+[![LeetCode](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png)](https://leetcode.com/demo-profile)
+[![GeeksforGeeks](https://img.icons8.com/color/48/000000/geeksforgeeks.png)](https://auth.geeksforgeeks.org/demo-profile)
 
 ---
 
 ## 🛠️ Languages and Tools:
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+[![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![HTML5](https://img.icons8.com/color/48/000000/html-5.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.icons8.com/color/48/000000/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.icons8.com/plasticine/48/000000/react.png)](https://react.dev/)
+[![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](https://nodejs.org/)
+[![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)](https://www.mongodb.com/)
+[![Git](https://img.icons8.com/color/48/000000/git.png)](https://git-scm.com/)
+[![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)](https://github.com/)
 
 ---
 
