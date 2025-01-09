@@ -15,7 +15,7 @@ A passionate developer from India 🌟, focused on learning, growing, and contri
 [![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)](https://github.com/chandrashekhar080/)
 [![HackerRank](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png)](https://www.hackerrank.com/profile/0810chandrashek1)
 [![LeetCode](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png)](https://leetcode.com/u/_chandrashekhar_08/)
-[![GeekforGeeks](https://img.icons8.com/color/48/000000/geeksforgeeks.png)](https://www.geeksforgeeks.org/user/0810chandrbric/)
+[![GeekforGeeks](https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg)](https://www.geeksforgeeks.org/user/0810chandrbric/)
 [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/_chandrashekhar_08/)
 
 ---
