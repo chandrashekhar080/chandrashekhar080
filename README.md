@@ -57,7 +57,7 @@ A passionate developer from India 🌟, focused on learning, growing, and contri
 
 ## 📂 Featured Projects:
 - [Portfolio Website](https://chandrashekhar080.github.io/WebsitePortfoliocs/): Showcasing my work and skills.
-- [Climate Smart Agriculture Platform](https://github.com/chandrashekhar080/Climate-Smart-Agriculture): Building sustainable solutions using modern web technologies.
+- [Dictionary App](https://github.com/chandrashekhar080/React_Dictionary_App): Building sustainable solutions using modern web technologies.
 
 ---
 
